@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<servlets>
+    <servlet>
+        <name>TestServlet</name>
+        <class>com.xwb.servlets.TestServlet</class>
+    </servlet>
+</servlets>
