@@ -4,4 +4,8 @@
         <name>TestServlet</name>
         <class>com.xwb.servlets.TestServlet</class>
     </servlet>
+    <servlet>
+        <name>HelloServlet</name>
+        <class>com.xwb.servlets.HelloServlet</class>
+    </servlet>
 </servlets>
